@@ -62,6 +62,8 @@ Both take **location** — needed to validate the 1-hour delivery radius.
 
 This is the correct starting point — services, tables, and the write transaction:
 
+![Initial HLD (hand-drawn)](./initial-hld.png)
+
 ```mermaid
 flowchart LR
     User([User]) <--> GW[API Gateway]
