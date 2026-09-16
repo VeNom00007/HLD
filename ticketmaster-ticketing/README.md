@@ -59,6 +59,8 @@ GET /events/:eventId/seat-updates   (SSE stream of seat status changes)
 
 ## 4. High-Level Architecture
 
+![High-level architecture (hand-drawn)](./hld-diagram.png)
+
 ```mermaid
 flowchart TD
     Client([Client]) --> GW[API Gateway<br/>auth, rate limit, routing]
