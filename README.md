@@ -12,5 +12,6 @@ Self-contained system design interview notes. Each topic lives in its own folder
 | Event Ticketing (Ticketmaster) | [ticketmaster-ticketing/](./ticketmaster-ticketing/README.md) |
 | News Feed (Facebook) | [fb-news-feed/](./fb-news-feed/README.md) |
 | Dating App (Tinder) | [tinder-dating/](./tinder-dating/README.md) |
+| Online Coding Judge (LeetCode) | [leetcode-coding-judge/](./leetcode-coding-judge/README.md) |
 
 _More designs to be added._
