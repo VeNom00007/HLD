@@ -14,5 +14,6 @@ Self-contained system design interview notes. Each topic lives in its own folder
 | Dating App (Tinder) | [tinder-dating/](./tinder-dating/README.md) |
 | Online Coding Judge (LeetCode) | [leetcode-coding-judge/](./leetcode-coding-judge/README.md) |
 | Real-Time Chat (WhatsApp) | [whatsapp-chat/](./whatsapp-chat/README.md) |
+| Distributed Rate Limiter | [rate-limiter/](./rate-limiter/README.md) |
 
 _More designs to be added._
